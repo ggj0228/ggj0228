@@ -96,3 +96,7 @@
 * SICP와 프로그래밍 언어의 구조
 * 확률·논리적 추론
 * 데이터 처리 및 AI 시스템
+
+## 자격 및 인증
+
+![PCCP Level 3](https://img.shields.io/badge/PCCP-Level%203-7B61FF?style=for-the-badge)
